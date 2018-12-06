@@ -1,20 +1,17 @@
 {
   "name": "Meu App",
   "short_name": "Meu App",
+  "description": "Descrição rápida do WebApp",
   "icons": [
     {
-      "src": "img/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    }, 
-    {
-      "src": "img/icon-512.png",
-      "sizes": "512x512",
+      "src": "img/imagem.png",
+      "sizes": "XxX",
       "type": "image/png"
     }
   ],
   "start_url": "/index.html",
-  "display": "fullscreen",
-  "background_color": "#3E4EB8",
-  "theme_color": "#2F3BA2"
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF"
 }
