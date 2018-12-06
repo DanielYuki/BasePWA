@@ -1,3 +1,7 @@
+//DE PREFERÊNCIA, DEIXE O SERVICE WORKER NO FINAL DO ARQUIVO.JS
+
+
+
 // Registra o service worker
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker

@@ -1,4 +1,7 @@
+// NOME DO CACHE
 let cacheName = 'Project-v1';
+
+// CACHE DE ARQUIVOS
 let filesToCache = [
     '/',
     '/index.html',
