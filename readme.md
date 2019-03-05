@@ -5,10 +5,13 @@
 - Um **manifest** (manifest.json)
 - Um **service-worker** (service-worker.js)
 - Um arquivo de **script** com o código para registro do service-worker (main.js)
-- Um arquivo de **CSS** (main.css)
+
+#### Elementos Extras
+- Um arquivo de de estilo **CSS** (main.css)
 - Imagens de ícone
 
-#### Informações Extras
-- Manifest é responsável por prover informações sobre o App, tais como o Nome, ícone e Descrição.
-- Service-Worker basicamente é uma API que permite o WebApp funcionar **OFFLINE**, e oferecendo um controle melhor aos Desenvolvedores
+#### Notas:
 - Este Repositório é apenas uma **BASE** para aplicações em PWA, e é possível adicionar mais coisas para fazer com que seu WebApp fique melhor
+- 95% Pronto -> "git clone" -> necessário fazer alguns pequenos ajustes dependendo da aplicação
+- Manifest é responsável por prover informações sobre o App, tais como o Nome, ícone e Descrição
+- Service-Worker basicamente é uma API que permite o WebApp funcionar **OFFLINE**, e oferecendo um controle melhor aos Desenvolvedores
